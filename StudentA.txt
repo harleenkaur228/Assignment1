@@ -1,1 +1,2 @@
 I am Student A
+I am Student C
