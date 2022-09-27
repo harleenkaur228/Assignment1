@@ -1,2 +1,4 @@
 I am Student A
+patch 2
+i am student B master
 I am Student C
